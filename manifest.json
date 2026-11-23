@@ -1,0 +1,8 @@
+{
+  "type": "preload-native",
+  "name": "Game Inspector",
+  "author": "EliasDevX9",
+  "version": "0.1.0",
+  "entry": "libgame_inspector.so",
+  "minecraft_versions": ["1.26.*"]
+}
